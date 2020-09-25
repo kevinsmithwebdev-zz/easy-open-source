@@ -8,7 +8,7 @@ You do not need to know much about coding to contribute to this. It is purposely
 
 What you will need:
 
-* A git hub accoun
+* A git hub account
 * Some kind of command shell on your computer (bash, etc.)
 
 ## The Steps of Contributing
