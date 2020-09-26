@@ -1,0 +1,22 @@
+{
+  "name": "easy",
+  "version": "1.0.0",
+  "description": "A simple repo for beginners to practice making pull requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinsmithwebdev/easy-open-source.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinsmithwebdev/easy-open-source/issues"
+  },
+  "homepage": "https://github.com/kevinsmithwebdev/easy-open-source#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
